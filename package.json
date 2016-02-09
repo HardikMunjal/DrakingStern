@@ -1,0 +1,19 @@
+{
+  "name": "swift-login-api",
+  "description": "login backend module",
+  "version": "0.0.1",
+  "engines": {
+    "node": "0.10.24",
+    "npm": "2.14.0"
+  },
+  "dependencies": {
+
+    "cron": "^1.1.0",
+    "nodemailer": "0.7.1",
+    "async": "^1.5.2",
+    "body-parser": "^1.14.2",
+    "express": "4.4.5",
+    "express-myconnection": "^1.0.4",
+    "mysql": "^2.10.2"
+  }
+}
